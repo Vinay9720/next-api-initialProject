@@ -51,3 +51,15 @@ If you dont want to switch branches the follow the below commands
 git add .
 git commit -m 'message'
 git push
+
+---
+
+---
+
+---
+
+to check the branch name that you have created follow the below command
+git branch name ------ ex: git navigation,
+
+to enter the branch created by you follow the below command
+git checkout created branch ----- ex:git checkout navigation,
