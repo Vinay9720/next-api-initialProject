@@ -40,3 +40,14 @@ git pull
 git add .
 git commit -m 'message'
 git push -u origin yourBranchName
+
+---
+
+---
+
+---
+
+If you dont want to switch branches the follow the below commands
+git add .
+git commit -m 'message'
+git push
